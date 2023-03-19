@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796450677270",
+    "project_id": "acc-atoot-bandhan-91348",
+    "storage_bucket": "acc-atoot-bandhan-91348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796450677270:android:09e7a44bd0998fb1578b37",
+        "android_client_info": {
+          "package_name": "com.mobiquest.atootbandhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796450677270-auqgebu0omhblsed18rpdtk0qb23l5a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYw_yj8hcgVOFH26rFK80s-NlS3AbDzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796450677270-auqgebu0omhblsed18rpdtk0qb23l5a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
